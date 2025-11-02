@@ -1,3 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleanwn)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Cleanwn"/>
 
-![Moe Counter](https://count.getloli.com/get/@Cleanwn)
+A lovely web developer based in China.
+- 喜欢捣鼓代码，热爱编程，喜欢探讨新技术.
+
+<img src="https://count.getloli.com/@:Cleanwn"/>
